@@ -15,7 +15,7 @@ const server = net.createServer((socket) => {
     //socket.pipe(socket);
     socket.on('data', (data) => {
         console.log(data);
-        socket.write(data);
+        //socket.write(data);
     })
 })
 
