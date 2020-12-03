@@ -3,7 +3,5 @@
   "version": "1.0.0",
   "description": "My second but also sad attempt at making a chat thing",
   "author": "Pizzakeitto",
-  "dependencies": {
-    "prompt-sync": "^4.2.0"
-  }
+  "dependencies": {}
 }
